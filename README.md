@@ -9,12 +9,12 @@ This repository contains two sub-repositories: [Part A](https://github.com/mueez
 - CSS
 
 ### Tags Used:
--<header>
--<footer>
--<nav>
--<image>
--<section>
--<article>
+-header
+-footer
+-nav
+-image
+-section
+-article
 
 ### Preview:
 [![Part A Preview](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/Home_page.png)](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/tree/main/PART%20A)
@@ -42,11 +42,11 @@ Part-A: This repository contains the code for the GreenWebDesign website, a plat
 
 ### Tags used:
 
--<nav>
--<header>
--<main>
--<section>
--<form>
+-nav
+-header
+-main
+-section
+-form
 
 ### Preview:
 [![Part B Preview](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART-B/snapshots/home.png)](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/tree/main/PART-B)
@@ -54,5 +54,5 @@ Part-A: This repository contains the code for the GreenWebDesign website, a plat
 ### Description:
 Part-B introduces various renewable energy technologies, including solar energy, wind energy, hydropower, geothermal energy, bioenergy, and ocean energy.
 
-Developed this projects as a part of Learning....
-Feel free to contribute!!1
+## Developed this projects as a part of Learning....
+### Feel free to contribute!!
