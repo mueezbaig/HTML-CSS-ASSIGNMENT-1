@@ -15,12 +15,12 @@ This is a simple website template showcasing different renewable energy technolo
 - [Contributing](#contributing)
 
 ## About Renewable Energy
-![About](about_image.jpg)
+![About](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART-B/snapshots/home.png)
 
 Renewable energy is derived from natural resources that are constantly replenished, such as sunlight, wind, water, geothermal heat, and biomass. These energy sources produce little to no greenhouse gas emissions, making them essential for combating climate change and ensuring a sustainable future.
 
 ## Technologies
-![Technologies](technologies_image.jpg)
+![Technologies](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART-B/snapshots/technologies.png)
 
 The website highlights the following renewable energy technologies:
 - **Solar Energy**: Harnesses sunlight to generate electricity or produce heat.
@@ -31,7 +31,7 @@ The website highlights the following renewable energy technologies:
 - **Ocean Energy**: Harnesses the power of the ocean's tides, waves, and currents to generate electricity.
 
 ## Contact Us
-![Contact](contact_image.jpg)
+![Contact](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART-B/snapshots/contact.png)
 
 
 ## Getting Started
@@ -44,7 +44,7 @@ Before running this project, ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/renewable-energy-technologies.git
+   git clone https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1.git
 
 2. Navigate to the project directory:
     ```sh
