@@ -54,5 +54,14 @@ Part-A: This repository contains the code for the GreenWebDesign website, a plat
 ### Description:
 Part-B introduces various renewable energy technologies, including solar energy, wind energy, hydropower, geothermal energy, bioenergy, and ocean energy.
 
-## Developed this projects as a part of Learning....
-### Feel free to contribute!!
+### Features
+
+1. **Navigation**: The website includes a navigation bar with links to different sections of the site, such as home, about us, products, and contact.
+
+2. **Sections**: The website is divided into sections, each focusing on a specific renewable energy technology.
+
+3. **Forms**: Users can fill out forms for more information or inquiries about renewable energy technologies.
+
+### Contact
+
+For questions, suggestions, or support, feel free to contact [moizzbaig613@gmail.com].
