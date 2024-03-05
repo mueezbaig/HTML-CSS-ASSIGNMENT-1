@@ -43,7 +43,7 @@ To run the website locally, follow these steps:
 
 ## Preview
 
-![Homepage]()
+![Homepage](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/Home_page.png)
 ![]()
 
 ## Contributing
