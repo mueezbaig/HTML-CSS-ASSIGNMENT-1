@@ -44,10 +44,10 @@ To run the website locally, follow these steps:
 ## Preview
 
 ![Homepage](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/Home_page.png)
-![about us]()
-![Products]()
-![Testimonials]()
-![contact]()
+![about us](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/about_us.png)
+![Products](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/produts.png)
+![Testimonials](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/reviews.png)
+![contact](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/contact.png)
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
