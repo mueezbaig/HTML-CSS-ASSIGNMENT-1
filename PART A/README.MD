@@ -45,7 +45,7 @@ To run the website locally, follow these steps:
 
 Homepage 
 ![Homepage](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/Home_page.png)
-Bbout us
+About us
 ![about us](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/about_us.png)
 Products
 ![Products](https://github.com/mueezbaig/HTML-CSS-ASSIGNMENT-1/blob/main/PART%20A/Snapshots/produts.png)
